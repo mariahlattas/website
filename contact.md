@@ -17,7 +17,7 @@ I am currently based in **Adelaide, South Australia** — lets get a coffee.
 
 ### Do you have a tip?
 
-For confidential or sensitive tips, I can be securely messaged on **Signal** and securely emailed with **ProtonMail**. 
+For confidential or sensitive tips, I can be securely reached by message on **Signal** and by email with **ProtonMail**. 
 
 **Signal**: [+61-434-235-289](sgnl://text:+61434235289)
 <br>
