@@ -9,6 +9,6 @@
 <p>Listen to the show <a href="{{ page.link }}">here</a>.</p> 
 
 {% if page.download %}
-    <p><a href="assets/audio/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | split: ": " | last | slugify }}">Download this show</a>.</p>
+    <p><a href="/assets/audio/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | split: ": " | last | slugify }}.mp3">Download this show</a>.</p>
 
 <p>{{ page.show }} airs {{ page.air-time }} every {{ page.air-day }} on {% include radio-stations.html %}</p>
