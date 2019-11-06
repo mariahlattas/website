@@ -1,0 +1,15 @@
+<p>Aired {{ page.air-time }} {{ page.date | date: "%A %-d %B %Y" }} on 
+    {% for item in post.stations %} 
+        {% if forloop.last == true %}
+            and {{ item }}
+        {% endif %}
+        {{ item }}
+    {% endfor %}</p>
+
+<h4><a href="{{ page.link }}">{{ page.date | date: "%-d %B %Y" }}: {{ page.title | split: ": " | last }}</a></h4>
+
+<p><img src="/assets/images/{{ page.show | slugify }}.jpg" alt="{{ page.show }} Cover Art" /></p>
+
+<blockquote><p>{{ page.description }}</p></blockquote>
+
+<p>Listen to this episode on <a href="{{ page.link }}">Apple Podcasts</a>.</p>
