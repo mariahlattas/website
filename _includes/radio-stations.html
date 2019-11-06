@@ -1,0 +1,11 @@
+{% for item in page.stations %} 
+        {% if forloop.last == false %}
+            {% if page.stations.size == 2 %}
+                {{ item }}
+            {% else %}
+                {{ item }}, 
+            {% endif %}
+        {% else %}
+            and {{ item }}
+        {% endif %}
+    {% endfor %}

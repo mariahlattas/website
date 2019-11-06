@@ -1,15 +1,4 @@
-<p>Aired {{ page.air-time }} {{ page.date | date: "%A %-d %B %Y" }} on 
-    {% for item in page.stations %} 
-        {% if forloop.last == false %}
-            {% if page.stations.size == 2 %}
-                {{ item }}
-            {% else %}
-                {{ item }}, 
-            {% endif %}
-        {% else %}
-            and {{ item }}
-        {% endif %}
-    {% endfor %}.</p>
+<p>Aired {{ page.air-time }} {{ page.date | date: "%A %-d %B %Y" }} on {% include radio-stations.html %}.</p>
 
 <h4><a href="{{ page.link }}">{{ page.date | date: "%-d %B %Y" }}: {{ page.title | split: ": " | last }}</a></h4>
 
@@ -17,4 +6,4 @@
 
 <blockquote><p>{{ page.description }}</p></blockquote>
 
-<p>Listen to this episode on <a href="{{ page.link }}">Apple Podcasts</a>.</p>
+<p>{{ page.show }} airs every {{ page.air-day }} on {% include radio-stations.html %}.</p>
