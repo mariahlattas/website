@@ -7,13 +7,13 @@ title: Contact
 
 I can be **emailed** at [mariahlattas1@gmail.com](mailto:mariahlattas1@gmail.com).
 
-And by **phone** and **iMessage** at [+61 434 235 289](tel:61434235289).
+By **phone** and **iMessage** at [+61 434 235 289](tel:61434235289).
 
 Or if you prefer you can **Tweet** me at [@mariahlattas](https://twitter.com/mariahlattas) — my DMs are open.
 
 You can **InMail** me on [LinkedIn](https://linkedin.com/in/mariahlattas).
 
-Currently based in Adelaide, South Australia — lets get a coffee. 
+I am currently based in Adelaide, South Australia — lets get a coffee. 
 
 ### Confidential and Sensitive Tips
 
