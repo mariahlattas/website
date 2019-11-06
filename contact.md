@@ -5,19 +5,21 @@ title: Contact
 
 ### Want to work with me?
 
-Email me at [mariahlattas1@gmail.com](mailto:mariahlattas1@gmail.com) or call me [+61 434 235 289](tel:61434235289).
+I can be *emailed* at [mariahlattas1@gmail.com](mailto:mariahlattas1@gmail.com) or by *phone* and *iMessage* at [+61 434 235 289](tel:61434235289).
 
-Tweet at me [@mariahlattas](https://twitter.com/mariahlattas), my DMs are open.
+Or if you prefer you can *tweet* me at [@mariahlattas](https://twitter.com/mariahlattas) — my DMs are open.
 
-#### Confidential and Sensitive Tips
+Add me on [LinkedIn](https://linkedin.com/in/mariahlattas).
 
-For confidential or sensitive tips, I can be securely messaged on [Signal](https://signal.org) and securely emailed with [ProtonMail](https://protonmail.com). 
+### Confidential and Sensitive Tips
 
-Signal: [+61 434 235 289](sgnl://text:+61434235289)
+For confidential or sensitive tips, I can be securely messaged on *Signal* and securely emailed with *ProtonMail*. 
 
-ProtonMail: [mariahlattas@protonmail.com](mailto:mariahlattas@protonmail.com)
+*Signal*: [+61-434-235-289](sgnl://text:+61434235289)
+<br>
+*ProtonMail*: [mariahlattas@protonmail.com](mailto:mariahlattas@protonmail.com)
 
-Signal is an end-to-end encrypted messaging service, and ProtonMail is an end-to-end encrypted email service. 
+[Signal](https://signal.org) is an end-to-end encrypted messaging service, and [ProtonMail](https://protonmail.com) is an end-to-end encrypted email service. 
 
 Learn how to communiate your tip with these guides from the [Freedom of the Press Foundation](https://freedom.press/donate): [Signal](https://freedom.press/news/signal-beginners/) and [ProtonMail](https://freedom.press/training/protonmail-pro/).
 
