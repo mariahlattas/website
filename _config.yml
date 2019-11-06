@@ -43,5 +43,3 @@ plugins:
 
 paginate: 5
 paginate_path: "/page/:num/"
-
-hide_credits: true
