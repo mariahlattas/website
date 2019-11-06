@@ -12,8 +12,4 @@
 
 <p>Subscribe to {{ page.podcast }} on <a href="{{ page.apple }}">Apple Podcasts</a>, <a href="{{ page.spotify }}">Spotify</a>, and where ever you <a href="{{ page.subscribe }}">find</a> podcasts.</p>
 
-{% if page.socials %}
-    {% if page.twitter.size > 1 %}<p>Follow {{ page.podcast }} on Twitter: <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>.</p>{% endif %}
-    {% if page.instagram.size > 1 %}<p>Follow {{ page.podcast }} on Instgram: <a href="https://instagram.com/{{ page.twitter }}">@{{ page.instagram }}</a>.</p>{% endif %}
-    {% if page.facebook.size > 1 %}<p>Follow {{ page.podcast }} on Facebook: <a href="https://facebook.com/{{ page.twitter }}">/{{ page.facebook }}</a>.</p>{% endif %}
-{% endif %}
+{% include socials.html %}
