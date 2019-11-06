@@ -5,13 +5,15 @@ title: Contact
 
 ### Want to work with me?
 
-I can be **emailed** at [mariahlattas1@gmail.com](mailto:mariahlattas1@gmail.com) or by **phone** and **iMessage** at [+61 434 235 289](tel:61434235289).
+I can be **emailed** at [mariahlattas1@gmail.com](mailto:mariahlattas1@gmail.com).
 
-Or if you prefer you can **tweet** me at [@mariahlattas](https://twitter.com/mariahlattas) — my DMs are open.
+And by **phone** and **iMessage** at [+61 434 235 289](tel:61434235289).
+
+Or if you prefer you can **Tweet** me at [@mariahlattas](https://twitter.com/mariahlattas) — my DMs are open.
 
 You can **InMail** me on [LinkedIn](https://linkedin.com/in/mariahlattas).
 
-Currently based in Adelaide, South Australia. 
+Currently based in Adelaide, South Australia — lets get a coffee. 
 
 ### Confidential and Sensitive Tips
 
