@@ -71,7 +71,8 @@
   }
   a {
     text-decoration: none;
-    text-transform: uppercase;
+//    text-transform: uppercase;
+    text-transform: lowercase;
     transition: opacity .125s ease-in-out;
     &:hover,
     &:focus {
