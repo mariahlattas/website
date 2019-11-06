@@ -1,4 +1,4 @@
-<h4><a href="{{ page.link }}">Episode {{ page.episode }}{{ page.title | remove: page.podcast }}</a></h4>
+<h4><a href="{{ page.link }}">Episode {{ page.episode }}{{ page.title | split: ": " | second }}</a></h4>
 
 <p><img src="/assets/images/{{ page.podcast | slugify }}.jpg" alt="{{ page.podcast }} Cover Art" /></p>
 
