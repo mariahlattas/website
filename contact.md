@@ -25,4 +25,4 @@ For confidential or sensitive tips, I can be securely reached by message on **Si
 
 [Signal](https://signal.org) and [ProtonMail](https://protonmail.com) are end-to-end encrypted messaging and email services, respectively.
 
-Learn how to communiate your tip with these guides from the [Freedom of the Press Foundation](https://freedom.press/donate): [Signal](https://freedom.press/news/signal-beginners/) and [ProtonMail](https://freedom.press/training/protonmail-pro/).
+Learn how to communiate your tip with these guides for [Signal](https://freedom.press/news/signal-beginners/) and [ProtonMail](https://freedom.press/training/protonmail-pro/) from [Freedom of the Press Foundation](https://freedom.press/donate).
