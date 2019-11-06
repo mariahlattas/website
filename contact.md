@@ -14,6 +14,7 @@ Tweet at me [@mariahlattas](https://twitter.com/mariahlattas), my DMs are open.
 For confidential or sensitive tips, I can be securely messaged on [Signal](https://signal.org) and securely emailed with [ProtonMail](https://protonmail.com). 
 
 Signal: [+61 434 235 289](sgnl://text:+61434235289)
+
 ProtonMail: [mariahlattas@protonmail.com](mailto:mariahlattas@protonmail.com)
 
 Signal is an end-to-end encrypted messaging service, and ProtonMail is an end-to-end encrypted email service. 
