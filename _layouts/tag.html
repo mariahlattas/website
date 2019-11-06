@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include menu.html %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include back-link.html %}
+{% else %}
+
 <main class="home" id="main" role="main" aria-label="Content">
     <h1 class="content-title divided">{{ page.title }}</h1>
     <h2>Blog posts tagged with #{{ page.tag }}.</h2>
