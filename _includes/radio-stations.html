@@ -1,11 +1,11 @@
 {% for item in page.stations %} 
         {% if forloop.last == false %}
             {% if page.stations.size == 2 %}
-                {{ item }}
+                <a href="{{ page.stations[item.index0] }}">{{ item }}</a>
             {% else %}
-                {{ item }}, 
+                <a href="{{ page.stations[item.index0] }}">{{ item }}</a>, 
             {% endif %}
         {% else %}
-            and {{ item }}
+            and <a href="{{ page.stations[last] }}">{{ item }}</a>
         {% endif %}
     {% endfor %}
