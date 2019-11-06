@@ -1,5 +1,8 @@
 - title: About
   url: /about.html
+  
+- title: Blog
+  url: /index.html#main
 
 - title: Projects
   url: /projects.html
