@@ -6,6 +6,7 @@ air-day: "Thursday"
 link: "http://radioadelaide.org.au/program/pink-rabbit/2019-10-31"
 description: "This week, we explore the results of a survey conducted by the Australian Human Rights Commission about sexual harassment in retail and fast food industries. <br> Then, we chat with playwright Holly Brindley about gender roles in #yermainadelaide and how the adaptation places its female protagonist into a modern context."
 download: true
+download-link: ""
 
 # Show Settings
 show: "Pink Rabbit"
