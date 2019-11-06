@@ -6,7 +6,7 @@ tags: podcast the-milkbar
 layout: podcast
 podcast: the-milkbar
 episode: 10
-podcaste-name: "The Milkbar"
+podcast-name: "The Milkbar"
 link: "https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008"
 ---
 
