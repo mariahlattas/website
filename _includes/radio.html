@@ -10,5 +10,6 @@
 
 {% if page.download %}
     <p><a href="/assets/audio/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | split: ": " | last | slugify }}.mp3">Download this show</a>.</p>
+{% endif %}
 
 <p>{{ page.show }} airs {{ page.air-time }} every {{ page.air-day }} on {% include radio-stations.html %}</p>
