@@ -23,6 +23,6 @@ For confidential or sensitive tips, I can be securely messaged on **Signal** and
 <br>
 **ProtonMail**: [mariahlattas@protonmail.com](mailto:mariahlattas@protonmail.com)
 
-[Signal](https://signal.org) is an end-to-end encrypted messaging service, and [ProtonMail](https://protonmail.com) is an end-to-end encrypted email service. 
+[Signal](https://signal.org) and [ProtonMail](https://protonmail.com) are end-to-end encrypted messaging and email services, respectively.
 
 Learn how to communiate your tip with these guides from the [Freedom of the Press Foundation](https://freedom.press/donate): [Signal](https://freedom.press/news/signal-beginners/) and [ProtonMail](https://freedom.press/training/protonmail-pro/).
