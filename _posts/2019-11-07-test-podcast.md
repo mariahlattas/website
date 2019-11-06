@@ -4,9 +4,8 @@ author: Mariah Lattas
 category: podcast
 tags: podcast the-milkbar
 layout: podcast
-podcast: the-milkbar
+podcast: "The Milkbar"
 episode: 10
-podcast-name: "The Milkbar"
 link: "https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008"
 ---
 
