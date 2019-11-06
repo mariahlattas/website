@@ -21,7 +21,7 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 ### CV
 <hr>
 
-[Download CV](/assets/documents/mariah-lattas-cv.pdf).
+### [Download full CV](/assets/documents/mariah-lattas-cv.pdf)
 
 #### Experience
 **Sales Consultant at LUSH Cosmetics**
