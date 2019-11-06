@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1 class="content-title divided">
+    {% {page.tag} }
+</h1>
+
+ 
+    
+<ul class="post-list">
+  {% for post in site.categories{page.tag} %}
+    {% include post-list-item.html %}
+  {% endfor %}
+</ul>
