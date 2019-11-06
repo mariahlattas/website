@@ -1,4 +1,4 @@
-<p>Aired {{ page.air-time }} {{ page.date | date: "%A %-d %B %Y" }} on {% include radio-stations.html %}.</p>
+<p>Aired {{ page.air-time }} {{ page.date | date: "%A %-d %B %Y" }} on {% include radio-stations.html %}</p>
 
 <h4><a href="{{ page.link }}">{{ page.date | date: "%-d %B %Y" }}: {{ page.title | split: ": " | last }}</a></h4>
 
@@ -6,6 +6,9 @@
 
 <blockquote><p>{{ page.description }}</p></blockquote>
 
-<p>Listen to the show <a href="{{ page.link }}">here</a>.</p>
+<p>Listen to the show <a href="{{ page.link }}">here</a>.</p> 
 
-<p>{{ page.show }} airs {{ page.air-time }} every {{ page.air-day }} on {% include radio-stations.html %}.</p>
+{% if page.download %}
+    <p><a href="assets/audio/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | split: ": " | last | slugify }}">Download this show</a>.</p>
+
+<p>{{ page.show }} airs {{ page.air-time }} every {{ page.air-day }} on {% include radio-stations.html %}</p>
