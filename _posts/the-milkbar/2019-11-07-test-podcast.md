@@ -3,10 +3,7 @@
 title: "The Milkbar: Blurred Lines & Poo Jogging"
 episode: 10
 link: "https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008"
-show-description: "Benito gives a heart-rending rendition of Robin
-
-Thicke's Blurred Lines, while Mariah's 
-secret love of Fortnite is uncovered."
+description: "Benito gives a heart-rending rendition of Robin Thicke's Blurred Lines, while Mariah's secret love of Fortnite is uncovered."
 
 # Podcast Settings
 podcast: "The Milkbar"
