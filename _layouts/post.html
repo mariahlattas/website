@@ -18,6 +18,10 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+      
+    {% if page.type == "podcast" %}
+      {% include podcast.html %}
+    {% endif %}
   </div>
 
   <div class="post-meta">

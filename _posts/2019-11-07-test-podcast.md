@@ -15,5 +15,6 @@ subscribe: "https://player.whooshkaa.com/shows/the-milkbar"
 author: Mariah Lattas
 category: podcast
 tags: podcast the-milkbar
-layout: podcast
+layout: post
+type: podcast
 ---

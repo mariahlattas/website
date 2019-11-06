@@ -1,0 +1,9 @@
+<h4><a href="{{ page.link }}">Episode {{ page.episode }}{{ page.title | remove: page.podcast }}</a></h4>
+
+<p><img src="/assets/images/{{ page.podcast | slugify }}.jpg" alt="{{ page.podcast }} Cover Art" /></p>
+
+<blockquote><p>{{ page.show-description }}</p></blockquote>
+
+<p>Listen to this episode on <a href="{{ page.link }}">Apple Podcasts</a>.</p>
+
+<p>Subscribe to {{ page.podcast}} on <a href="{{ page.apple }}">Apple Podcasts</a>, <a href="{{ page.spotify }}">Spotify</a>, and where ever you <a href="{{ page.subscribe }}">find</a> podcasts.</p>
