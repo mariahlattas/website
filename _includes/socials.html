@@ -1,0 +1,5 @@
+{% if page.socials %}
+    {% if page.twitter.size > 1 %}<p>Follow on Twitter: <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>.</p>{% endif %}
+    {% if page.instagram.size > 1 %}<p>Follow on Instgram: <a href="https://instagram.com/{{ page.instagram }}">@{{ page.instagram }}</a>.</p>{% endif %}
+    {% if page.facebook.size > 1 %}<p>Follow on Facebook: <a href="https://facebook.com/{{ page.facebook }}">/{{ page.facebook }}</a>.</p>{% endif %}
+{% endif %}
