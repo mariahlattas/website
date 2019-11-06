@@ -1,5 +1,5 @@
 <p>Aired {{ page.air-time }} {{ page.date | date: "%A %-d %B %Y" }} on 
-    {% for item in post.stations %} 
+    {% for item in page.stations %} 
         {% if forloop.last == true %}
             and {{ item }}
         {% endif %}
