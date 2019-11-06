@@ -1,11 +1,14 @@
 <p>Aired {{ page.air-time }} {{ page.date | date: "%A %-d %B %Y" }} on 
     {% for item in page.stations %} 
         {% if forloop.last == false %}
-            {{ item }}
+            {% if page.stations.size == 2 %}
+                {{ item }}
+            {% else %}
+                {{ item }}, 
         {% else %}
             and {{ item }}
         {% endif %}
-    {% endfor %}</p>
+    {% endfor %}.</p>
 
 <h4><a href="{{ page.link }}">{{ page.date | date: "%-d %B %Y" }}: {{ page.title | split: ": " | last }}</a></h4>
 
