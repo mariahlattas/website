@@ -13,7 +13,7 @@ podcast: "The Milkbar"
 apple: "https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008"
 spotify: "https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2"
 subscribe: "https://player.whooshkaa.com/shows/the-milkbar"
-website: ""
+website: "https://the-milkbar.fm"
 socials: true
 instagram: "TheMilkbar"
 twitter: ""
