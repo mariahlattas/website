@@ -15,7 +15,7 @@ You can **InMail** me on [LinkedIn](https://linkedin.com/in/mariahlattas).
 
 I am currently based in Adelaide, South Australia — lets get a coffee. 
 
-### Confidential and Sensitive Tips
+### Do you have a tip?
 
 For confidential or sensitive tips, I can be securely messaged on **Signal** and securely emailed with **ProtonMail**. 
 
