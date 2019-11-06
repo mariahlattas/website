@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<main class="home" id="main" role="main" aria-label="Content">
 <ul class="post-list">
 {% for post in site.tags[page.tag] %}
   <li>
@@ -9,6 +10,7 @@ layout: default
   </li>
 {% endfor %}
 </ul>
+</main>
 
 <!--
 <ul class="post-list">
