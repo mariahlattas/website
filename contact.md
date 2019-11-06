@@ -9,4 +9,6 @@ Email me at [mariahlattas1@gmail.com](mailto:mariahlattas1@gmail.com) or call me
 
 Tweet at me [@mariahlattas](https://twitter.com/mariahlattas), my DMs are open.
 
+For confidential or sensitive tips, I am available on Signal at [number] and my ProtonMail is [mariahlattas@protonmail.com](mailto:mariahlattas@protonmail.com).
+
 Currently based in Adelaide, South Australia. 
