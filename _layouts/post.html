@@ -22,6 +22,10 @@ layout: default
     {% if page.type == "podcast" %}
       {% include podcast.html %}
     {% endif %}
+      
+        {% if page.type == "radio" %}
+      {% include radio.html %}
+    {% endif %}
   </div>
 
   <div class="post-meta">
