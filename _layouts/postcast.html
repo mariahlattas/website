@@ -1,13 +1,54 @@
 ---
-layout: post
+layout: default
 ---
 
-<h4><a href="{{page.link}}">{{page.episode}}: {{page.title}}</a></h4>
+{% if site.data.menu %}
+  {% include menu.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
 
-<p><img src="/assets/images/{{page.podcast}}" alt="{{page.podcast-name}} Cover Art" /></p>The Milkbar Cover Art](/assets/images/the-milkbar.jpg)
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
-> Dane Swan is washed, Mariah hates Canberra and Benito doesn't know Angels by Robbie Williams. A rough week by anyone's standards.
+  {% if page.title != "" %}
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+  {% endif %}
 
-Listen on [Apple Podcasts](https://podcasts.apple.com/au/podcast/episode-4-brownslow-canberra-horoscopes/id1478059008?i=1000451458093).
+  <div class="post-content e-content" itemprop="articleBody">
+      
+    <h4><a href="{{page.link}}">{{page.episode}}: {{page.title}}</a></h4>
 
-Subscribe to The Milkbar on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008), [Spotify](https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2), and where ever you [find](https://player.whooshkaa.com/shows/the-milkbar) podcasts.
+    <p><img src="/assets/images/{{page.podcast}}" alt="{{page.podcast-name}} Cover Art" /></p>
+
+    <p><blockquote>{{content}}</blockquote></p>
+
+    <p>Listen on <a href="{{page.link}}">Apple Podcasts</a>Apple Podcasts.</p>
+
+    {% if page.podcast = "the-milkbar" %}
+        <p>Subscribe to The Milkbar on <a href="https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2">Spotify</a>, and where ever you <a href="https://player.whooshkaa.com/shows/the-milkbar">find</a> podcasts.</p>
+    {% end if %}
+  </div>
+
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+      
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+      
+    <div class="post-tags">
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>&nbsp;
+    {% endfor %}
+      </div>
+  </div>
+
+
+  {% if site.disqus.shortname %}
+    {% include disqus-comments.html %}
+  {% endif %}
+
+</article>

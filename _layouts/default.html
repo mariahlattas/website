@@ -25,6 +25,7 @@
   </head>
   <body>
 
+<!--
     {% if page.layout == 'home' %}
       <a href="#main" class="skip-navigation">
         Skip to list of posts
@@ -34,6 +35,7 @@
         Skip to content
       </a>
     {% endif %}
+-->
 
     {{ content }}
 
@@ -46,7 +48,7 @@
     {% unless site.hide_credits %}
       <aside class="site-credits">
         <p>
-          <small>&copy; {{ site.time | date: '%y' }} mariah lattas <a href="http://jekyllrb.com">Jekyll</a> on GitHub Pages.</small>
+          <small>&copy; {{ site.time | date: '%Y' }} mariah lattas.</small>
         </p>
       </aside>
     {% endunless %}
