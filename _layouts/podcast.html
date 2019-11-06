@@ -18,17 +18,17 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
       
-    <h4><a href="{{ page.link }}">Episode {{ page.episode }}{{ page.title | remove: page.podcast | append: ": "}}</a></h4>
+    {{ content }}
+      
+    <h4><a href="{{ page.link }}">Episode {{ page.episode }}{{ page.title | remove: page.podcast }}</a></h4>
 
     <p><img src="/assets/images/{{ page.podcast | slugify }}.jpg" alt="{{ page.podcast }} Cover Art" /></p>
 
-      <blockquote><p>{{ content }}</p></blockquote>
+    <blockquote><p>{{ page.show-description }}</p></blockquote>
 
     <p>Listen on <a href="{{ page.link }}">Apple Podcasts</a>.</p>
 
-    {% if page.podcast == "The Milkbar" %}
-        <p>Subscribe to The Milkbar on <a href="https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2">Spotify</a>, and where ever you <a href="https://player.whooshkaa.com/shows/the-milkbar">find</a> podcasts.</p>
-    {% endif %}
+    <p>Subscribe to {{ page.podcast}} on <a href="{{ page.apple }}">Apple Podcasts</a>, <a href="{{ page.spotify }}">Spotify</a>, and where ever you <a href="{{ page.subscribe }}">find</a> podcasts.</p>
   </div>
 
   <div class="post-meta">
