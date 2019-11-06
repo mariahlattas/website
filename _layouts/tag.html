@@ -4,7 +4,7 @@ layout: default
 
 <main class="home" id="main" role="main" aria-label="Content">
     <h1 class="content-title divided">{{ page.title }}</h1>
-    <p>Blog posts tagged with #{{ page.tag }}.</p>
+    <h2>Blog posts tagged with #{{ page.tag }}.</h2>
     <ul class="post-list">
     {% for post in site.tags[page.tag] %}
       <li>
