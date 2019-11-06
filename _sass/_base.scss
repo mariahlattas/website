@@ -169,7 +169,13 @@ figcaption {
 }
 
 .avatar {
-    width: 20em;
-    height: 20em;
+    width: 5em;
+    height: 5em;
     border-radius: 50%;
+}
+
+.avatar img {
+    width: auto;
+    height: 100%;
+    margin-left: -1.25em;
 }
