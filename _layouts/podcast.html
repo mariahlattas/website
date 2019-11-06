@@ -20,13 +20,13 @@ layout: default
       
     <h4><a href="{{ page.link }}">{{ page.episode }}: {{ page.title }}</a></h4>
 
-    <p><img src="/assets/images/{{ page.podcast }}.jpg" alt="{{ page.podcast-name }} Cover Art" /></p>
+    <p><img src="/assets/images/{{ page.podcast | slugify }}.jpg" alt="{{ page.podcast }} Cover Art" /></p>
 
       <blockquote><p>{{ content }}</p></blockquote>
 
-    <p>Listen on <a href="{{ page.link }}">Apple Podcasts</a>Apple Podcasts.</p>
+    <p>Listen on <a href="{{ page.link }}">Apple Podcasts</a>.</p>
 
-    {% if page.podcast == "the-milkbar" %}
+    {% if page.podcast == "The Milkbar" %}
         <p>Subscribe to The Milkbar on <a href="https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008">Apple Podcasts</a>, <a href="https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2">Spotify</a>, and where ever you <a href="https://player.whooshkaa.com/shows/the-milkbar">find</a> podcasts.</p>
     {% endif %}
   </div>
