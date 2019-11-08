@@ -23,6 +23,6 @@ For confidential or sensitive tips, I can be securely reached by message on **Si
 <br>
 **ProtonMail**: [mariahlattas@protonmail.com](mailto:mariahlattas@protonmail.com).
 
-[Signal](https://signal.org) and [ProtonMail](https://protonmail.com) are end-to-end encrypted messaging and email services, respectively. For increased anonymity I recommend communicating on a public Wi-Fi network using a VPN — like [ProtonVPN](https://protonvpn.com).
+[Signal](https://signal.org) and [ProtonMail](https://protonmail.com) are end-to-end encrypted messaging and email services, respectively. For increased anonymity I recommend communicating on a public Wi-Fi network using a VPN — like **[ProtonVPN](https://protonvpn.com)**.
 
 Learn how to communiate your tip with these guides for [Signal](https://freedom.press/news/signal-beginners/) and [ProtonMail](https://freedom.press/training/protonmail-pro/) from [Freedom of the Press Foundation](https://freedom.press/donate).
