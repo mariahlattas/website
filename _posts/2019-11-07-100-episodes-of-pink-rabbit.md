@@ -50,4 +50,4 @@ Thank you so much to all of the special individuals and organisations who have b
 Thanks to YWCA Australia, South Australian Abortion Action Coalition, Reclaim the Night SA, Women's Safety Services SA, Coalition of Women's Domestic Violence Services SA, SIN, Working Women's Centre SA Inc, SHINE SA, Girls Rock Adelaide, Girl Space, and so many more!
 
 ![Pink Rabbit 100 us.](/assets/images/posts/pink-rabbit-100-2.jpg)
-> Soph Landau, Mariah Lattas, and Milly Schultz-Boylen.
+<figcaption>Soph Landau, Mariah Lattas, and Milly Schultz-Boylen.</figcaption>
