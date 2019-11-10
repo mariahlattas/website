@@ -50,6 +50,6 @@ Thanks to YWCA Australia, South Australian Abortion Action Coalition, Reclaim th
 ![Pink Rabbit 100 cake!](/assets/images/posts/pink-rabbit-100-1.jpg)
 
 <figure>
-![Pink Rabbit 100 us!](/assets/images/posts/pink-rabbit-100-2.jpg)
+<img alt="Pink Rabbit 100 us" src="/assets/images/posts/pink-rabbit-100-2.jpg" />
 <figcaption>Soph Landau, Mariah Lattas, and Milly Schultz-Boylen.</figcaption>
 </figure>
