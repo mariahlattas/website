@@ -93,6 +93,7 @@ img {
   max-width: 100%;
   height: auto;
   margin: 2em auto;
+  box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
 }
 
 figure img {
