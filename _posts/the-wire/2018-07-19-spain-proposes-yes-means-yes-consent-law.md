@@ -7,8 +7,8 @@ link: "http://thewire.org.au/story/spain-proposes-yes-means-yes-consent-law/"
 description: "Spanish Prime Minister Pedro Sánchez has vowed to introduce new legislation surrounding consent. <br>Talk about the legislation comes after five men were cleared of rape and given lesser sentences after performing non-consensual sex with a women."
 download: false
 download-link: ""
-download-package: true
-download-package-link: ""
+package-download: true
+package-download-link: ""
 
 # Show Settings
 show: "The Wire"
