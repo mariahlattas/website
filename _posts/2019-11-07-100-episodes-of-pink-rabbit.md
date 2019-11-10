@@ -38,11 +38,12 @@ type: radio
 
 🐰💖 100 EPISODES 💖🐰
 
-Last night we celebrated our 100th episode of Pink Rabbit alongside our sister program HER. on Radio Adelaide 🎉
+Last night we celebrated our 100th episode of Pink Rabbit alongside our sister program [HER.](http://radioadelaide.org.au/program/her/)🎉
+
 Getting nostalgic, the team went into the archives and listened back to some highlights, before hearing from a few fond and familiar voices.
 Thank you so much to all of the special individuals and organisations who have been a part of our community, we couldn't have done it without you!
 
-(P.S. thanks to Pride and Prejudice - Radio Adelaide for making us this perfect cake)
+(P.S. thanks to [Pride and Prejudice](http://radioadelaide.org.au/program/pride-and-prejudice/) for making us this perfect cake)
 
 Thanks to YWCA Australia, South Australian Abortion Action Coalition, Reclaim the Night SA, Women's Safety Services SA, Coalition of Women's Domestic Violence Services SA, SIN, Working Women's Centre SA Inc, SHINE SA, Girls Rock Adelaide, Girl Space, and so many more!
 
