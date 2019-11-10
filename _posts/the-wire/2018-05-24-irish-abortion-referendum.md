@@ -25,7 +25,7 @@ subscribe: "http://thewire.org.au/feed/fullshow"
 # Post Settings
 author: Mariah Lattas
 category: radio
-tags: radio the-wire
+tags: radio the-wire podcast
 layout: post
 type: radio
 ---
