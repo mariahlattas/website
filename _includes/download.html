@@ -1,0 +1,7 @@
+{% if page.download %}
+    <p><a href="{% if page.download-link.size > 1 %}{{ page.download-link }}{% else %}/assets/audio/{{ page.show | slugify }}/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | split: ": " | last | slugify }}.mp3{% endif %}">Download this {% if page.type == "radio" %}show{% else %}episode{% endif %}</a>.</p>
+{% endif %}
+
+{% if page.package-download %} 
+    <p><a href="{% if page.package-download-link.size > 1 %}{{ page.package-download-link }}{% else %}/assets/audio/{{ page.show | slugify }}/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | split: ": " | last | slugify }}-package.mp3{% endif %}">Download my package</a>.</p>
+{% endif %}

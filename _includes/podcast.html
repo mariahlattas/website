@@ -1,14 +1,12 @@
 <h4><a href="{{ page.link }}">Episode {{ page.episode }}: {{ page.title | split: ": " | last }}</a></h4>
 
-<p><img src="/assets/images/{{ page.podcast | slugify }}.jpg" alt="{{ page.podcast }} Cover Art" /></p>
+<p><img src="/assets/images/{{ page.show | slugify }}.jpg" alt="{{ page.show }} Cover Art" /></p>
 
 <blockquote><p>{{ page.description }}</p></blockquote>
 
 <p>Listen to this episode on <a href="{{ page.link }}">Apple Podcasts</a>.</p>
 
-{% if page.download %}
-    <p><a href="{% if page.download-link.size > 1 %}{{ page.download-link }}{% else %}/assets/audio/{{ page.podcast | slugify }}/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | split: ": " | last | slugify }}.mp3{% endif %}">Download this episode</a>.</p>
-{% endif %}
+{% include download.html %}
 
 {% include subscribe-podcast.html %}
 

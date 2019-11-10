@@ -5,8 +5,10 @@ air-time: "5:30 PM"
 air-day: "weekday"
 link: "http://thewire.org.au/story/spain-proposes-yes-means-yes-consent-law/"
 description: "Spanish Prime Minister Pedro Sánchez has vowed to introduce new legislation surrounding consent. <br>Talk about the legislation comes after five men were cleared of rape and given lesser sentences after performing non-consensual sex with a women."
-download: true
+download: false
 download-link: ""
+download-package: true
+download-package-link: ""
 
 # Show Settings
 show: "The Wire"
@@ -15,7 +17,6 @@ stations-links: ["http://radioadelaide.org.au/program/pink-rabbit/", "https://2s
 
 # Podcast Settings
 has-podcast: true
-podcast: "The Wire"
 apple: "https://itunes.apple.com/au/podcast/the-wire-full-show/id1102296208"
 spotify: ""
 subscribe: "http://thewire.org.au/feed/fullshow"
