@@ -38,4 +38,4 @@ Find The Wire on [Apple Podcasts](https://itunes.apple.com/au/podcast/the-wire-f
 
 Listen live on [Radio Adelaide 101.5](http://radioadelaide.org.au/program/the-wire/) in Adelaide, [2SER 107.3](https://2ser.com/the-wire/) in Sydney and [4EB 98.1](https://www.4eb.org.au/TheWire) in Brisbane, [CAAMA RADIO 100.5](https://caama.com.au/news/2016/stream-us-live-now-1) Alice Springs, [RTR-FM 92.1](https://rtrfm.com.au) in Perth, and [JOY 94.9](https://joy.org.au/thewire/) in Melbourne.
 
-[Read more](/tag/the-wire)
+[Read more](/tag/the-wire).
