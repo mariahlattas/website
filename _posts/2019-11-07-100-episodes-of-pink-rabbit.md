@@ -2,6 +2,7 @@
 # ------------------Episode Settings-----------------------
 title: "Pink Rabbit: 100 Episodes of Pink Rabbit"
 air-time: "6:30 PM"
+air-day: "Thursday"
 link: "http://radioadelaide.org.au/program/pink-rabbit/2019-11-07"
 package-link: ""
 description: "Pink Rabbit turns 100. We look back and speak to co-founder Georgia Roberts."
