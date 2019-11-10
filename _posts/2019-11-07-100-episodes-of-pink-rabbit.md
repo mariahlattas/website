@@ -38,7 +38,9 @@ type: radio
 
 🐰💖 100 EPISODES 💖🐰
 
-Last night we celebrated our 100th episode of Pink Rabbit alongside our sister program [HER.](http://radioadelaide.org.au/program/her/)🎉
+![Pink Rabbit 100 cake!](/assets/images/posts/pink-rabbit-100-1.jpg)
+
+Last night we celebrated our 100th episode of Pink Rabbit alongside our sister program [HER.](http://radioadelaide.org.au/program/her/) 🎉
 
 Getting nostalgic, the team went into the archives and listened back to some highlights, before hearing from a few fond and familiar voices.
 Thank you so much to all of the special individuals and organisations who have been a part of our community, we couldn't have done it without you!
@@ -47,9 +49,5 @@ Thank you so much to all of the special individuals and organisations who have b
 
 Thanks to YWCA Australia, South Australian Abortion Action Coalition, Reclaim the Night SA, Women's Safety Services SA, Coalition of Women's Domestic Violence Services SA, SIN, Working Women's Centre SA Inc, SHINE SA, Girls Rock Adelaide, Girl Space, and so many more!
 
-![Pink Rabbit 100 cake!](/assets/images/posts/pink-rabbit-100-1.jpg)
-
-<figure>
-<img alt="Pink Rabbit 100 us" src="/assets/images/posts/pink-rabbit-100-2.jpg" />
-<figcaption>Soph Landau, Mariah Lattas, and Milly Schultz-Boylen.</figcaption>
-</figure>
+![Pink Rabbit 100 us.](/assets/images/posts/pink-rabbit-100-2.jpg)
+> Soph Landau, Mariah Lattas, and Milly Schultz-Boylen.
