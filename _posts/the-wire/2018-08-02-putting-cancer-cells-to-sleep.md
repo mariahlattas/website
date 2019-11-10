@@ -3,7 +3,7 @@
 title: "The Wire: Putting Cancer Cells to Sleep"
 air-time: "5:30 PM"
 air-day: "weekday"
-link: "http://thewire.org.au/story/univerisity-of-adelaide-advertises-roles-for-women-only/"
+link: "http://thewire.org.au/story/putting-cancer-cells-sleep/"
 description: "A group of scientists from Melbourne have discovered a new drug that is designed to put cancer cells to sleep. <br>The finding was a collaborative effort with over 50 researchers taking part and bringing different techniques to help develop the anti-cancer drug."
 download: true
 download-link: ""
