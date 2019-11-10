@@ -12,6 +12,6 @@
 
 <p>{{ page.show }} airs {{ page.air-time }} every {{ page.air-day }} on {% include radio-stations.html %}</p>
 
-{% if page.podcast %}{% include subscribe-podcast.html %}{% endif %}
+{% if page.has-podcast %}{% include subscribe-podcast.html %}{% endif %}
 
 {% include socials.html %}
