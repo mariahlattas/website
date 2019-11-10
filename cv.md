@@ -6,6 +6,9 @@ layout: post
 ### [Download full CV](/assets/documents/mariah-lattas-cv.pdf)
 
 #### Experience
+
+##### Present
+
 **Co-Host, The Milkbar at postup**
 <br>2019 — Present
 
@@ -14,6 +17,8 @@ layout: post
 
 **Sales Consultant at LUSH Cosmetics**
 <br>2019 — Present
+
+##### Past
 
 **Operations Specialist at Apple**
 <br>2017 — 2019
