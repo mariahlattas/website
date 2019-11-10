@@ -3,7 +3,8 @@
 title: "The Wire: Spain Proposes 'Yes Means Yes' Consent Law"
 air-time: "5:30 PM"
 air-day: "weekday"
-link: "http://thewire.org.au/story/spain-proposes-yes-means-yes-consent-law/"
+link: "http://thewire.org.au/day/thursday-19-july-2018/"
+package-link: "http://thewire.org.au/story/spain-proposes-yes-means-yes-consent-law/"
 description: "Spanish Prime Minister Pedro Sánchez has vowed to introduce new legislation surrounding consent. <br>Talk about the legislation comes after five men were cleared of rape and given lesser sentences after performing non-consensual sex with a women."
 download: false
 download-link: ""

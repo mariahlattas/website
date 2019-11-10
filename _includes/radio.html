@@ -6,7 +6,7 @@
 
 <blockquote><p>{{ page.description }}</p></blockquote>
 
-<p>Listen to the show <a href="{{ page.link }}">here</a>.</p> 
+<p>Listen to the show <a href="{{ page.link }}">here</a>{% if page.package-link.size > 1 %}, and my package <a href="{{ page.package-link }}">here</a>{% endif %}.</p> 
 
 {% include download.html %}
 
