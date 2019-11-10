@@ -1,6 +1,6 @@
 ---
 # Episode Settings
-title: "'Woman Only' Roles for Adelaide University"
+title: "'Women Only' Roles for Adelaide University"
 air-time: "5:30 PM"
 air-day: "weekday"
 link: "http://thewire.org.au/story/univerisity-of-adelaide-advertises-roles-for-women-only/"
