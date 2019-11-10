@@ -10,6 +10,6 @@
     <p><a href="{% if page.download-link.size > 1 %}{{ page.download-link }}{% else %}/assets/audio/{{ page.podcast | slugify }}/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | split: ": " | last | slugify }}.mp3{% endif %}">Download this episode</a>.</p>
 {% endif %}
 
-<p>Subscribe to {{ page.podcast }} on <a href="{{ page.apple }}">Apple Podcasts</a>, <a href="{{ page.spotify }}">Spotify</a>, or wherever you <a href="{{ page.subscribe }}">find</a> podcasts.</p>
+{% include subscribe-podcast %}
 
 {% include socials.html %}
