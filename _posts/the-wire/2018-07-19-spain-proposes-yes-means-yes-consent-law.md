@@ -12,7 +12,13 @@ download-link: ""
 show: "The Wire"
 stations: ["Radio Adelaide 101.5 in Adelaide", "2SER 107.3 in Sydney", "4EB 98.1 in Brisbane", "CAAMA RADIO 100.5 Alice Springs", "RTR-FM 92.1 in Perth", "JOY 94.9 in Melbourne"]
 stations-links: ["http://radioadelaide.org.au/program/pink-rabbit/", "https://2ser.com/the-wire/", "https://www.4eb.org.au/TheWire", "https://caama.com.au/news/2016/stream-us-live-now-1", "https://rtrfm.com.au/", "https://joy.org.au/thewire/"]
-podcast: true
+
+# Podcast Settings
+has-podcast: true
+podcast: "The Wire"
+apple: "https://itunes.apple.com/au/podcast/the-wire-full-show/id1102296208"
+spotify: ""
+subscribe: "http://thewire.org.au/feed/fullshow"
 
 # Post Settings
 author: Mariah Lattas
