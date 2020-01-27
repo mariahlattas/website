@@ -5,7 +5,7 @@ title: Contact
 
 ### Want to work with me?
 
-I can be **emailed** at [mariahlattas1@gmail.com](mailto:mariahlattas1@gmail.com).
+I can be **emailed** at [hello@mariahlattas.com](mailto:hello@mariahlattas.com).
 
 By **phone** and **iMessage** at [+61 434 235 289](tel:61434235289).
 
