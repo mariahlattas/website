@@ -12,9 +12,9 @@ I am a co-host of [Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/
 My Tweets can be found at [@mariahlattas](https://twitter.com/mariahlattas).
 
 <figure>
-  <img alt="Mariah Lattas" src="https://www.toyotacenter.com/assets/img/ariana-grande-sweetner-Slide-4fdf654a13.jpg" />
+  <img alt="Mariah Lattas" src="/assets/images/about-me.jpg" />
   <figcaption>
-    Photo by Ariana Grande.
+    Photo by jden redden.
   </figcaption>
 </figure>
 
