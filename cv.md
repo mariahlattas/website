@@ -3,7 +3,7 @@ title: Curriculum Vitae
 layout: post
 ---
 
-<h3>Mariah Lattas 
+<h3>Mariah Lattas
 <br><small><em>BA(PolIntRel) BMedia</em></small></h3>
 
 #### Profile
