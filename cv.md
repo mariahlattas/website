@@ -3,14 +3,13 @@ title: Curriculum Vitae
 layout: post
 ---
 
-### Mariah Lattas
-#### BMedia BA(PolIntRel)
+### Mariah Lattas *BA(PolIntRel) BMedia*
 
 #### Profile
 
 A 22-year-old journalist, podcaster, and graduate from Adelaide, South Australia. Currently a content writer, podcast host and producer and Ryderwear and the PUSHH app. Co-host and journalist on The Milkbar by postup and Pink Rabbit on Radio Adelaide and JOY 94.9. I am passionate about telling important stories and giving a voice to those who do not have the ability and to hold those who do have a voice accountable.
 
-### [Download full PDF CV](/assets/documents/mariah-lattas-cv.pdf).
+[Download full PDF CV](/assets/documents/mariah-lattas-cv.pdf).
 
 #### Experience
 
@@ -19,7 +18,7 @@ A 22-year-old journalist, podcaster, and graduate from Adelaide, South Australia
 **Content Writer at Ryderwear**  
 2020 — Present
 
-**Executive Producer and Host, *What The Flex?* at PUSHH**
+**Executive Producer and Host, *What The Flex?* at PUSHH**  
 2020 — Present
 
 **Co-Host, *The Milkbar* at postup**  
@@ -46,11 +45,10 @@ A 22-year-old journalist, podcaster, and graduate from Adelaide, South Australia
 2016 — 2017
 
 #### Education
-**University of Adelaide**  
-2015 — 2019
-
-*Bachelor of Media*
-BMedia
-
-*Bachelor of Arts (Politics and International Relations)*
+**University of Adelaide, School of Social Sciences**  
+*Bachelor of Arts (Politics and International Relations). 2019. Graduated.*  
 BA(PolIntRel)
+
+**University of Adelaide, School of Humanities**  
+*Bachelor of Media. 2019. Graduated.*
+BMedia
