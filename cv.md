@@ -32,7 +32,7 @@ Adelaide, Australia. 2018 — Present.
 **Operations Specialist at Apple**  
 Adelaide, Australia. 2017 — 2019.
 
-**Journalist, The Wire at Radio Adelaide**  
+**Journalist, *The Wire* at Radio Adelaide**  
 Adelaide, Australia. 2018.
 
 **Placement at Channel 7 Adelaide**  
