@@ -3,6 +3,17 @@ layout: post
 title: Current Projects
 ---
 
+### [What The Flex?](https://www.ryderwear.com.au/blogs/news/your-new-favourite-podcast-what-the-flex-has-just-launched)
+
+From the team that brought you both Ryderwear and PUSHH, What The Flex? is a podcast that covers all fitness bases. We speak to a range of athletes about the highs and lows of fitness, their journey and career, Instagram, owning a business, and so much more.
+
+[![What The Flex?](/assets/images/what-the-flex.jpg)](/tag/what-the-flex/)
+
+Find The What The Flex? on [Apple Podcasts](https://podcasts.apple.com/au/podcast/what-the-flex/id1501639880), [Spotify](https://open.spotify.com/show/21RcRRqX5bpRW7ZrcNgORE), and where ever you [find](https://whattheflex.podbean.com) podcasts.
+
+[Read more](/tag/what-the-flex).
+<hr>
+
 ### [Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/)
 
 Co-hosted with Milly Schultz-Boylen and Soph Landau, **Pink Rabbit** is *looking down the rabbit hole of what it means to be a 21st century feminist*.
