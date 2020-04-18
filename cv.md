@@ -17,33 +17,33 @@ A 22-year-old journalist, podcaster, and graduate from Adelaide, South Australia
 ##### Present
 
 **Content Writer at Ryderwear**  
-Adelaide, Australia. 2020 — Present
+Adelaide, Australia. 2020 — Present.
 
 **Executive Producer and Host, *What The Flex?* at PUSHH**  
-Adelaide, Australia. 2020 — Present
+Adelaide, Australia. 2020 — Present.
 
 **Co-Host, *The Milkbar* at postup**  
-Adelaide, Australia. 2019 — Present
+Adelaide, Australia. 2019 — Present.
 
 **Journalist and Host, *Pink Rabbit* at Radio Adelaide**  
-Adelaide, Australia. 2018 — Present
+Adelaide, Australia. 2018 — Present.
 
 ##### Past
 
 **Operations Specialist at Apple**  
-Adelaide, Australia. 2017 — 2019
+Adelaide, Australia. 2017 — 2019.
 
 **Journalist, The Wire at Radio Adelaide**  
-Adelaide, Australia. 2018
+Adelaide, Australia. 2018.
 
 **Placement at Channel 7 Adelaide**  
-Adelaide, Australia. 2018
+Adelaide, Australia. 2018.
 
 **Placement at Channel 10 Adelaide**  
-Adelaide, Australia. 2018
+Adelaide, Australia. 2018.
 
 **Media and Communications Manager at Adelaide Cobras Football Club**  
-Adelaide, Australia. 2016 — 2017
+Adelaide, Australia. 2016 — 2017.
 
 #### Education
 **University of Adelaide, School of Social Sciences**  
@@ -51,5 +51,5 @@ Adelaide, Australia. 2016 — 2017
 BA(PolIntRel)
 
 **University of Adelaide, School of Humanities**  
-*Bachelor of Media. 2019. Graduated.*
+*Bachelor of Media. 2019. Graduated.*  
 BMedia
