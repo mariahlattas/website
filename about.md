@@ -3,14 +3,14 @@ title: About
 layout: post
 ---
 
-Journalist, podcaster, and feminist.
-
 <figure>
   <img alt="Mariah Lattas" src="/assets/images/about-me.jpg" />
   <figcaption>
       Photo by <a href="https://www.jden.me">jden redden</a>.
   </figcaption>
 </figure>
+
+Journalist, podcaster, and feminist.
 
 I am currently a Content Writer for Ryderwear and Executive Producer and Host for *[What the Flex?](https://podcasts.apple.com/au/podcast/what-the-flex/id1501639880)* for Ryderwear and PUSHH.
 
