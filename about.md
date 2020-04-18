@@ -1,7 +1,9 @@
 ---
-title: About
+title: About Me
 layout: post
 ---
+
+### Mariah Lattas
 
 <figure>
   <img alt="Mariah Lattas" src="/assets/images/about-me.jpg" />
