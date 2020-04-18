@@ -3,7 +3,8 @@ title: Curriculum Vitae
 layout: post
 ---
 
-### Mariah Lattas *BA(PolIntRel) BMedia*
+<h3>Mariah Lattas 
+<br><small><em>BA(PolIntRel) BMedia</em></small></h3>
 
 #### Profile
 
@@ -16,33 +17,33 @@ A 22-year-old journalist, podcaster, and graduate from Adelaide, South Australia
 ##### Present
 
 **Content Writer at Ryderwear**  
-2020 — Present
+Adelaide, Australia. 2020 — Present
 
 **Executive Producer and Host, *What The Flex?* at PUSHH**  
-2020 — Present
+Adelaide, Australia. 2020 — Present
 
 **Co-Host, *The Milkbar* at postup**  
-2019 — Present
+Adelaide, Australia. 2019 — Present
 
 **Journalist and Host, *Pink Rabbit* at Radio Adelaide**  
-2018 — Present
+Adelaide, Australia. 2018 — Present
 
 ##### Past
 
 **Operations Specialist at Apple**  
-2017 — 2019
+Adelaide, Australia. 2017 — 2019
 
 **Journalist, The Wire at Radio Adelaide**  
-2018
+Adelaide, Australia. 2018
 
 **Placement at Channel 7 Adelaide**  
-2018
+Adelaide, Australia. 2018
 
 **Placement at Channel 10 Adelaide**  
-2018
+Adelaide, Australia. 2018
 
 **Media and Communications Manager at Adelaide Cobras Football Club**  
-2016 — 2017
+Adelaide, Australia. 2016 — 2017
 
 #### Education
 **University of Adelaide, School of Social Sciences**  
