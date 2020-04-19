@@ -3,7 +3,7 @@ title: Curriculum Vitae
 layout: post
 ---
 
-<h3>Mariah Lattas<br><small><em>BA(PolIntRel) BMedia</em></small></h3>
+<h3>Mariah Lattas<br><small>BA(PolIntRel) BMedia <em> Adl</em></small></h3>
 
 #### Profile
 
@@ -47,8 +47,8 @@ Adelaide, Australia. 2016 — 2017.
 #### Education
 **University of Adelaide, School of Social Sciences**  
 *Bachelor of Arts (Politics and International Relations). 2019. Graduated.*  
-BA(PolIntRel)
+BA(PolIntRel) *Adl*
 
 **University of Adelaide, School of Humanities**  
 *Bachelor of Media. 2019. Graduated.*  
-BMedia
+BMedia *Adl*
