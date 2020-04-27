@@ -10,7 +10,7 @@ From the team that brought you both Ryderwear and PUSHH, What The Flex? is a pod
 
 [![What The Flex?](/assets/images/what-the-flex.jpg)](/tag/what-the-flex/)
 
-Find The What The Flex? on [Apple Podcasts](https://podcasts.apple.com/au/podcast/what-the-flex/id1501639880){: target="_blank" onclick="sa_event('outbound_apple_podcasts_what_the_flex')"}, [Spotify](https://open.spotify.com/show/21RcRRqX5bpRW7ZrcNgORE), and where ever you [find](https://whattheflex.podbean.com) podcasts.
+Find The What The Flex? on [Apple Podcasts](https://podcasts.apple.com/au/podcast/what-the-flex/id1501639880){: target="_blank" onclick="sa_event('podcast_apple_what_the_flex')"}, [Spotify](https://open.spotify.com/show/21RcRRqX5bpRW7ZrcNgORE){: target="_blank" onclick="sa_event('podcast_spotify_what_the_flex')"}, and where ever you [find](https://whattheflex.podbean.com){: target="_blank" onclick="sa_event('podcast_podbean_what_the_flex')"} podcasts.
 
 [Read more](/tag/what-the-flex).
 <hr>
@@ -32,7 +32,7 @@ Listen live on [Radio Adelaide 101.5](http://radioadelaide.org.au/program/pink-r
 
 [![The Milkbar](/assets/images/the-milkbar.jpg)](/tag/the-milkbar)
 
-Find The Milkbar on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008), [Spotify](https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2), and where ever you [find](https://player.whooshkaa.com/shows/the-milkbar) podcasts.
+Find The Milkbar on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008){: target="_blank" onclick="sa_event('podcast_apple_the_milkbar')"}, [Spotify](https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2){: target="_blank" onclick="sa_event('podcast_spotify_the_milkbar')"}, and where ever you [find](https://player.whooshkaa.com/shows/the-milkbar){: target="_blank" onclick="sa_event('podcast_whooshkaa_the_milkbar')"} podcasts.
 
 [Read more](/tag/the-milkbar).
 

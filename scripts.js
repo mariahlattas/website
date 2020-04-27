@@ -9,6 +9,7 @@
   for (var i = 0; i < a.length; i++) {
     var link = a[i]
     
+    // Test if already has onlick attribute set
     if (!link.hasAttribute("onclick")) { 
       // Test if link is http and external
       if (/^http/i.test(link.href) && !internal.test(link.href)) {
