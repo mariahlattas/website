@@ -10,7 +10,7 @@ From the team that brought you both Ryderwear and PUSHH, What The Flex? is a pod
 
 [![What The Flex?](/assets/images/what-the-flex.jpg)](/tag/what-the-flex/)
 
-Find The What The Flex? on [Apple Podcasts](https://podcasts.apple.com/au/podcast/what-the-flex/id1501639880){::options onclick="sa_event('outbound_apple_podcasts_what_the_flex')" /}, [Spotify](https://open.spotify.com/show/21RcRRqX5bpRW7ZrcNgORE), and where ever you [find](https://whattheflex.podbean.com) podcasts.
+Find The What The Flex? on [Apple Podcasts](https://podcasts.apple.com/au/podcast/what-the-flex/id1501639880){: onclick="sa_event('outbound_apple_podcasts_what_the_flex')"}, [Spotify](https://open.spotify.com/show/21RcRRqX5bpRW7ZrcNgORE), and where ever you [find](https://whattheflex.podbean.com) podcasts.
 
 [Read more](/tag/what-the-flex).
 <hr>
