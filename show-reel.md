@@ -1,6 +1,7 @@
 ---
 title: "Show Reel"
 layout: post
+permalink: /show-reel/
 ---
 
 ### 2018 — 2019 Audio Show Reel

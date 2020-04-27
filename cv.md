@@ -1,6 +1,7 @@
 ---
 title: Curriculum Vitae
 layout: post
+permalink: /cv/
 ---
 
 <h3>Mariah Lattas<br><small>BA(PolIntRel) BMedia <em> Adl</em></small></h3>
@@ -9,7 +10,7 @@ layout: post
 
 A 22-year-old journalist, podcaster, and graduate from Adelaide, South Australia. Currently a content writer, podcast host and producer and Ryderwear and the PUSHH app. Co-host and journalist on The Milkbar by postup and Pink Rabbit on Radio Adelaide and JOY 94.9. I am passionate about telling important stories and giving a voice to those who do not have the ability and to hold those who do have a voice accountable.
 
-[Download full PDF CV](/assets/documents/mariah-lattas-cv.pdf).
+[Download full PDF CV](/assets/documents/mariah-lattas-cv.pdf){: .download}.
 
 #### Experience
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Contact
+permalink: /contact/
 ---
 
 ### Want to work with me?

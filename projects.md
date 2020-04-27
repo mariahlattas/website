@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Current Projects
+permalink: /projects/
 ---
 
 ### [What The Flex?](https://www.ryderwear.com.au/blogs/news/your-new-favourite-podcast-what-the-flex-has-just-launched)
