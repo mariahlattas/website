@@ -1,17 +1,17 @@
 - title: About
-  url: /about.html
+  url: /about
   
 - title: Blog
-  url: /index.html#main
+  url: /#main
 
 - title: Projects
-  url: /projects.html
+  url: /projects
 
 - title: Show Reel
-  url: /show-reel.html
+  url: /show-reel
   
 - title: CV
-  url: /cv.html
+  url: /cv
 
 - title: Contact
-  url: /contact.html
+  url: /contact
