@@ -9,25 +9,25 @@ permalink: /us/
 #### Then-candidate Joe Biden
 
 <video controls>
-  <source src="assets/biden.mov" type="video/mp4">
+  <source src="/assets/biden.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video controls>
-  <source src="assets/biden2.mov" type="video/mp4">
+  <source src="/assets/biden2.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### Senator Elizabeth Warren
 
 <video controls>
-  <source src="assets/warren.mov" type="video/mp4">
+  <source src="/assets/warren.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### Mayor Pete Buttigieg
 
 <video controls>
-  <source src="assets/pete.mov" type="video/mp4">
+  <source src="/assets/pete.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
