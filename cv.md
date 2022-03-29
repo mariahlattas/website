@@ -21,12 +21,12 @@ Connect with me on [LinkedIn](https://linkedin.com/in/mariahlattas).
 ##### Present
 
 **Journalist and Newsletter Editor at [The Daily Aus](https://www.thedailyaus.com.au)**  
-Sydney, Australia. 2021 - Present.
+Sydney, Australia. 2021 — Present.
 
 ##### Past
 
 **Journalist and Researcher at [SIMPLIFIED](https://nowsimplified.org)**  
-California, United States of America. 2020 - 2021.
+California, United States of America. 2020 — 2021.
 
 **Content Writer at [Ryderwear](https://au.ryderwear.com)**  
 Adelaide, Australia. 2020 — 2021.
