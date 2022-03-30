@@ -29,4 +29,8 @@ All the ways you can contact me are available [here](/contact.html).
 
 My work has been published at The Daily Aus, Now Simplified, Radio Adelaide 101.5, postup, JOY 94.9, Adelaide Cobras Football Club.
 
+I live and work on [Gadigal Land of the Eora Nation](https://aiatsis.gov.au/explore/map-indigenous-australia) who are the Traditional Custodians of the Sydney region. I acknowledge and pay respect to the past, present, and emerging Traditional Custodians and Elders of this nation and the continuation of cultural, spiritual and educational practices of Aboriginal and Torres Strait Islander peoples.
+
+Always Was, Always Will Be Aboriginal Land.
+
 <!--I will be travelling to the United States in early 2020 to observe the 2020 Presidential Election Primaries. If you would like me to write for you from the field, please get in [touch](mailto:mariahlattas1@gmail.com).-->
