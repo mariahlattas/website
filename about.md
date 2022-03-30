@@ -21,11 +21,11 @@ Previously, I was a *Journalist and Researcher* at [SIMPLIFED](https://nowsimpli
 
 I hold a *Bachelor of Media* and *Bachelor of Arts (Politics and International Relations)* from the Univeristy of Adelaide.
 
-My full CV can be found [here](/cv.html).
+My full CV can be found [here](/cv/).
 
 My Tweets can be found at [@mariahlattas](https://twitter.com/mariahlattas).
 
-All the ways you can contact me are available [here](/contact.html).
+All the ways you can contact me are available [here](/contact/).
 
 My work has been published at The Daily Aus, Now Simplified, Radio Adelaide 101.5, postup, JOY 94.9, Adelaide Cobras Football Club.
 
