@@ -15,9 +15,9 @@ permalink: /about/
 
 Journalist, podcaster, and writer.
 
-I am current a Journalist and Newsletter Editor at [The Daily Aus](https://www.thedailyaus.com.au) an Australian social-first news organisation, delivering accessible and digestible news to over 340,000 young Australians on Instagram. 
+I am current a *Journalist and Newsletter Editor* at [The Daily Aus](https://www.thedailyaus.com.au) an Australian social-first news organisation, delivering accessible and digestible news to over 340,000 young Australians on Instagram. 
 
-Previously I was a Journalist and Researcher at [SIMPLIFED](https://nowsimplified.org) and a Content Writer for Ryderwear and Executive Producer and Host for *[What the Flex?](https://podcasts.apple.com/au/podcast/what-the-flex/id1501639880)* for Ryderwear and PUSHH and co-host of *[Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/)* on Radio Adelaide 101.5 and JOY 94.9 and also co-host *[The Milkbar](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008)* with Benito Carbone for [postup](http://postup.com.au).
+Previously, I was a *Journalist and Researcher* at [SIMPLIFED](https://nowsimplified.org) and a *Content Writer* for Ryderwear and *Executive Producer and Host* for *[What the Flex?](https://podcasts.apple.com/au/podcast/what-the-flex/id1501639880)* for Ryderwear and PUSHH and *Co-Host* of *[Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/)* on Radio Adelaide 101.5 and JOY 94.9 and also *Co-Host* of *[The Milkbar](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008)* with Benito Carbone for [postup](http://postup.com.au).
 
 I hold a *Bachelor of Media* and *Bachelor of Arts (Politics and International Relations)* from the Univeristy of Adelaide.
 
