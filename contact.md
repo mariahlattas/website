@@ -14,7 +14,7 @@ Or if you prefer, you can **Tweet** me at [@mariahlattas](https://twitter.com/ma
 
 You can **InMail** me on [LinkedIn](https://linkedin.com/in/mariahlattas).
 
-I am currently based in **Adelaide, South Australia** — lets get a coffee. 
+I am currently based in **Sydney, South Australia** — lets get a coffee. 
 
 ### Do you have a tip?
 
