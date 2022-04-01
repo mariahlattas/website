@@ -29,7 +29,7 @@ All the ways you can contact me are available [here](/contact/).
 
 My work has been published at The Daily Aus, Now Simplified, Radio Adelaide 101.5, postup, JOY 94.9, Adelaide Cobras Football Club.
 
-I live and work on [Gadigal Land of the Eora Nation](https://aiatsis.gov.au/explore/map-indigenous-australia) who are the Traditional Custodians of the Sydney region. I recognises their continuing connection to land, sea, culture, and community. I pay my respects to Elders past, present, and emerging.
+I live and work on [Gadigal Land of the Eora Nation](https://aiatsis.gov.au/explore/map-indigenous-australia) who are the Traditional Custodians of the Sydney region. I recognise their continuing connection to land, sea, culture, and community. I pay my respects to Elders past, present, and emerging.
 
 Always Was, Always Will Be Aboriginal Land.
 
