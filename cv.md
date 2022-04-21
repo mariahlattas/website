@@ -16,6 +16,8 @@ Connect with me on [LinkedIn](https://linkedin.com/in/mariahlattas).
 
 [Download full PDF CV](/assets/documents/mariah-lattas-cv.pdf){: .download}.
 
+[Download Selected Works in a PDF](/assets/documents/mariah-lattas-selected-works.pdf){: .download}.
+
 #### Experience
 
 ##### Present
